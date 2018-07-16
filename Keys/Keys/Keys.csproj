@@ -416,6 +416,8 @@
     <Content Include="Models\KeysDB.edmx.diagram">
       <DependentUpon>KeysDB.edmx</DependentUpon>
     </Content>
+    <None Include="Properties\PublishProfiles\KeysAPP - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\KeysAPP - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.js" />
     <Content Include="Scripts\DataTables\autoFill.bootstrap.min.js" />

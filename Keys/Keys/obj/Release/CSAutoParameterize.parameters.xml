@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="KeysEntities-Web.config Connection String" description="KeysEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.KeysDB.csdl|res://*/Models.KeysDB.ssdl|res://*/Models.KeysDB.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=LAPTOP-H2QMDHS9\BHARGAVSQL;initial catalog=Keys;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\bharg\\Documents\\Visual\ Studio\ 2015\\Keys\\Keys\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='KeysEntities']/@connectionString" />
+  </parameter>
+</parameters>
